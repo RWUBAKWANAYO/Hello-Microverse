@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-h1 {
+.intro-header {
   margin-top: 50px;
   color: #174ea6;
   text-align: center;
