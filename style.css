@@ -1,0 +1,12 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.intro-header {
+  margin-top: 50px;
+  color: #174ea6;
+  text-align: center;
+  font-family: sans-serif;
+}
