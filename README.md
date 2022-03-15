@@ -24,7 +24,9 @@ To get a local copy open and running follow these simple example steps.
 
 ### Installation
 - One folder in your text editor.
-- Run `npm install`command to install all dependencies.
+- Run `npm install` command to install all dependencies.
+
+*N.B: Make sure that you have node installed in your commputer, if not [Download Node](https://nodejs.org/en/)*
 
 ### Usage
 Navigate to the Folder and Double Click on index.html File or you can simply open project with live server in your editor.
